@@ -9,3 +9,5 @@ Power BI: For data visualization and creating interactive reports and dashboards
 MySQL: For managing and retrieving data from the company’s database.
 Excel: For initial data analysis and cleansing.
 DAX: For creating custom calculations and business logic in Power BI.
+
+Video Presentation List :- https://www.linkedin.com/feed/update/urn:li:activity:7288442606001217537/
